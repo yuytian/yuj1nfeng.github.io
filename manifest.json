@@ -2,21 +2,16 @@
   "name": "Yujin Feng",
   "short_name": "yujinfeng",
   "description": "Yujin Feng's GitHub Homepage",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#6366f1",
   "icons": [
     {
       "src": "favicon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
